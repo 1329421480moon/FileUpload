@@ -1,0 +1,27 @@
+ctrl + Alt 智能补全
+ctrl + alt + v 获取返回值对象
+Ctrl + o  查看类中方法
+ctrl + alt +B  查找接口的实现类
+CTRL + alt +L 格式化代码
+Ctrl + Alt + U  查看某个类的完整关系类图
+ctrl + alt + T ,实现surround with代码，包括if语句
+Ctrl + Alt + enter 新开上一行，并定位到上一行
+Ctrl + 回车 新开下一行，定位在原先位置
+CTRL + alt + 下箭头或上箭头     复制当前行到上或者下
+crtl + alt + 左右键     在idea界面上切换.java文件
+
+Alt + insert。弹出一个小窗,可以用它生成多种代码。点击getter与setter这个、tostring方法
+Alt + 回车  提示
+Alt + shift + Z 包围
+
+
+PSVM main方法
+sout 输出语句
+
+iter 增强for循环
+fori + tab键生成普通的for循坏
+
+shift + enter  新开下一行，并定位在下一行
+shift + shift 全局查找
+
+

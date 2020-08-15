@@ -1,0 +1,20 @@
+Ctrl shift o 导包
+shift enter 在下生成一行
+Ctrl shift enter  向上生成一行
+Alt shift m 将选中的代码弄成方法
+Ctrl + 1 获取对象的类
+Ctrl + D 删除选中或此行
+Alt + 上型下键   上下移动
+选中 右键  refater rename 更改相关的所有相同名字
+Alt + / 代码的提示（有什么代码）
+Ctrl + shift + r 进入servlet
+Ctrl + E 显示Java程序
+Ctrl + F 查找
+Ctrl + q 回到上次的编辑位置
+Ctrl + t 查看接口的实现类；
+右键--》source--》生成getter和setter方法，无参构造，有参构造，重写toString方法
+
+客户端 Ctrl + f5 大刷新，强制清除缓存
+
+jsp
+Alt + /  导包
